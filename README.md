@@ -24,5 +24,6 @@ The resulting build factors can be seen below
 ## Acknowledgement
 
 ![Alvier logo](figures/svg/Alvier_mechatronics_logo.svg)
+
 The stators, testing, and writing of this paper were supported by [Alvier Mechatronics](https://www.alviermechatronics.com/).
-For similar data or for development of new machines with accurately captured simulation losses, please contact Alvier Mechatronics via their website.
+For similar data, or for development of new machines with accurately captured simulation losses, please contact Alvier Mechatronics via their [website](https://www.alviermechatronics.com/).
